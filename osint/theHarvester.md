@@ -20,13 +20,3 @@ Un primer acercamiento común consiste en utilizar **Google** como fuente de dat
 
 ```bash
 theharvester -d google.com -l 100 -b google
-
-En este comando:
-
-Se indica el dominio objetivo (google.com)
-
-Se limita la salida a un máximo de 100 resultados
-
-Se define Google como fuente de información
-
-Este tipo de búsqueda no siempre devuelve grandes volúmenes de datos, pero resulta útil para obtener una primera visión de la superficie pública del dominio, como subdominios visibles o direcciones IP relacionadas.
