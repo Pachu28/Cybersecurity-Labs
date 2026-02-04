@@ -1,36 +1,27 @@
 # 🛡️ Cybersecurity Practices
 
-Repositorio de prácticas y laboratorios realizados como estudiante de **Ciberseguridad**.  
-El objetivo de este repositorio es documentar **aprendizajes, metodologías y herramientas**, siguiendo principios éticos y educativos.
+Este repositorio reúne prácticas y pequeños laboratorios que he realizado como **estudiante de ciberseguridad**.  
+La idea es documentar lo que voy aprendiendo, las herramientas que uso y las buenas prácticas que considero importantes.
+
+No es un repositorio de exploits ni de ataques reales, sino un espacio de **aprendizaje y documentación**.
 
 ---
 
-## 📂 Contenido
+## 📂 ¿Qué encontrarás aquí?
 
 ### 🔎 OSINT
-- Recolección de información pública
-- Uso responsable de herramientas OSINT
-- Análisis de dominios y metadatos
+Prácticas de recolección de información pública utilizando herramientas OSINT.  
+Aquí documento cómo se obtiene información visible en internet y por qué es importante protegerla.
 
-### 🌐 Redes y Escaneo
-- Reconocimiento de red
-- Escaneo de puertos y servicios
-- Análisis básico de tráfico
+### 🌐 Redes
+Ejercicios relacionados con reconocimiento de red, escaneo de puertos y análisis básico de servicios.
 
 ### 🐧 Linux
-- Permisos
-- Usuarios y grupos
-- Comandos esenciales para seguridad
+Notas y prácticas sobre el uso de Linux aplicado a seguridad: permisos, usuarios, comandos y configuraciones básicas.
 
 ---
 
-## ⚠️ Nota Ética
-Todas las prácticas aquí documentadas se realizan en **entornos controlados**, con fines **educativos y legales**.  
-No se incluyen credenciales reales, IPs sensibles ni exploits activos.
-
----
-
-## 🧠 Herramientas utilizadas
+## 🧠 Herramientas que utilizo
 - Nmap
 - theHarvester
 - Maltego (Community)
@@ -38,5 +29,10 @@ No se incluyen credenciales reales, IPs sensibles ni exploits activos.
 
 ---
 
-📫 **Contacto:**  
-Joshua Matias – Estudiante de Ciberseguridad
+## ⚠️ Nota importante
+Todas las prácticas están hechas en **entornos de prueba** o con fines **educativos**.  
+No se publican datos reales, credenciales ni información sensible.
+
+---
+
+📌 Este repositorio forma parte de mi portafolio personal en GitHub.
